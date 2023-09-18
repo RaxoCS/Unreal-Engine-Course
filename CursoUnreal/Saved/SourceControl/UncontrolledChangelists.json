@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/IllumTest.umap",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/StarterContent/Materials/M_Water_Lake.uasset",
+				"C:/Users/canal/OneDrive/Documents/Unreal Projects/CursoUnreal/Content/IllumTest_BuiltData.uasset"
+			]
+		}
+	]
+}
